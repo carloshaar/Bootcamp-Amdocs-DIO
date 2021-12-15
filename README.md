@@ -10,7 +10,7 @@ Acompanhamento de Estudo do Bootcamp Amdocs JAVA Developer
 - Projetos ágeis com SCRUM ✔️
 - Criando seu primeiro Repositóriono GitHub para compartilhar seu progresso ✔️
 - Mentoria #2: Como ser o próximo contratado da Amdocs ✔️
-- Linux: Introdução ao Sistema Operacional e Terminal
+- Linux: Introdução ao Sistema Operacional e Terminal ✔️
 - Linux: Diretórios e Comandos Essenciais
 - Linux: Fundamentos de Redes e Comandos Avançados
 - Linux: Gerenciamento de Pacotes
