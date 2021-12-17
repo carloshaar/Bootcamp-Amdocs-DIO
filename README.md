@@ -12,7 +12,7 @@ Acompanhamento de Estudo do Bootcamp Amdocs JAVA Developer
 - Mentoria #2: Como ser o próximo contratado da Amdocs ✔️
 - Linux: Introdução ao Sistema Operacional e Terminal ✔️
 - Linux: Diretórios e Comandos Essenciais ✔️
-- Linux: Fundamentos de Redes e Comandos Avançados
+- Linux: Fundamentos de Redes e Comandos Avançados ✔️
 - Linux: Gerenciamento de Pacotes
 - Dominando IDEs Java
 - Introdução ao Ecossistema e Documentação Java
