@@ -13,7 +13,7 @@ Acompanhamento de Estudo do Bootcamp Amdocs JAVA Developer
 - Linux: Introdução ao Sistema Operacional e Terminal ✔️
 - Linux: Diretórios e Comandos Essenciais ✔️
 - Linux: Fundamentos de Redes e Comandos Avançados ✔️
-- Linux: Gerenciamento de Pacotes
+- Linux: Gerenciamento de Pacotes ✔️
 - Dominando IDEs Java
 - Introdução ao Ecossistema e Documentação Java
 - Configurando Ambiente de Desenvolvimento Java no Linux
