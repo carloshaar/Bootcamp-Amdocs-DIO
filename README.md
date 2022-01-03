@@ -15,7 +15,7 @@ Acompanhamento de Estudo do Bootcamp Amdocs JAVA Developer
 - Linux: Fundamentos de Redes e Comandos Avançados ✔️
 - Linux: Gerenciamento de Pacotes ✔️
 - Dominando IDEs Java ✔️
-- Introdução ao Ecossistema e Documentação Java
+- Introdução ao Ecossistema e Documentação Java ✔️
 - Configurando Ambiente de Desenvolvimento Java no Linux
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 - Lógica Condicional e Controle de Fluxos em Java
