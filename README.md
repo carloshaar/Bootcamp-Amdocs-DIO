@@ -16,8 +16,8 @@ Acompanhamento de Estudo do Bootcamp Amdocs JAVA Developer
 - Linux: Gerenciamento de Pacotes ✔️
 - Dominando IDEs Java ✔️
 - Introdução ao Ecossistema e Documentação Java ✔️
-- Configurando Ambiente de Desenvolvimento Java no Linux
-- Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- Configurando Ambiente de Desenvolvimento Java no Linux ✔️
+- Variáveis, Tipos de Dados e Operadores Matemáticos em Java ✔️
 - Lógica Condicional e Controle de Fluxos em Java
 - Estruturas de Repetição e Arrays em Java
 - Reforçando o Conceito de Laços em Java
